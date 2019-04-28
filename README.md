@@ -1,6 +1,6 @@
 # DnD-toolkit
 
-A set of command line tools for dnd built with curses :
+A set of command line tools for dnd built with ncurses :
 
 1. Character progress tool
 
